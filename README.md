@@ -1,2 +1,2 @@
 # demo-rep
-This rep is used to practice the git workflow
+This rep is used to practice the git workflow!
