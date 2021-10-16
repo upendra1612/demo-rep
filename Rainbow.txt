@@ -1,0 +1,6 @@
+This file shows colors in rainbow.
+
+red
+blue 
+green
+yellow
